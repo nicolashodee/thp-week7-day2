@@ -5,7 +5,7 @@ THP :Project EventBrite
 Pas réussi à créer des évènements ou à les éditer via un formulaire :(
 
 
-Heroku app : https://eventbrite-thp-heroku.herokuapp.com
+Heroku app : https://eventbrite-nicolas.herokuapp.com
 
 
 * Ruby version 2.5.1
